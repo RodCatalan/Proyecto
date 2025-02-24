@@ -1,0 +1,18 @@
+{
+"properties": [
+    {
+        "name": "url.base.api",
+        "type": "java.lang.String",
+        "description": "Url base de la API"
+    },
+    {
+        "name": "marvel.api.private-key",
+        "type": "java.lang.String",
+        "description": "LLave privada"
+    },
+    {
+        "name": "marvel.api.public-key",
+        "type": "java.lang.String",
+        "description": "LLave publica"
+    }]
+}
