@@ -1,8 +1,8 @@
+import { HttpClient, HttpErrorResponse, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { catchError } from 'rxjs/operators';
-import { HttpClient, HttpHeaders, HttpErrorResponse} from '@angular/common/http';
-import { firstValueFrom } from 'rxjs';
 import { Router } from '@angular/router';
+import { firstValueFrom } from 'rxjs';
+import { catchError } from 'rxjs/operators';
 import Swal from 'sweetalert2';
 
 @Injectable({
@@ -10,7 +10,7 @@ import Swal from 'sweetalert2';
 })
 export class BitacoraService {
 
-  private urlBitacora: string = 'http://localhost:9001/consumer/api/marvel/getDataBitacora';
+  private urlBitacora: string = 'http://localhost:7012/api/marvel/getDataBitacora';
 
   constructor(private http: HttpClient, private router: Router) { }
 
