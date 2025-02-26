@@ -14,7 +14,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import org.springframework.web.cors.CorsConfiguration;
 
 /**
- * @author MBL
+ * @author rgonzalezc.
  */
 
 @EnableWebSecurity
@@ -40,7 +40,7 @@ class WebSecurityConfig implements SecurityConfigurer<DefaultSecurityFilterChain
 	 * @throws Exception Si ocurre un error durante la configuración de las políticas de seguridad. 
 	 *
 	 * Este método se invoca automáticamente cuando se inicia la aplicación.
-	 * @autor MBL
+	 * @autor rgonzalezc
 	 */
 	@Bean
 	public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {

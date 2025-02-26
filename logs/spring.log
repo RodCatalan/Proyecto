@@ -1,0 +1,22 @@
+2025-02-25T01:24:42.395-06:00  INFO 12348 --- [marvel] [main] com.marvel.api.MarvelApplication         : Starting MarvelApplication using Java 17.0.14 with PID 12348 (C:\Users\user\.git\Proyecto\marvel\target\classes started by user in C:\Users\user\.git\Proyecto)
+2025-02-25T01:24:42.405-06:00  INFO 12348 --- [marvel] [main] com.marvel.api.MarvelApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-02-25T01:24:45.477-06:00  INFO 12348 --- [marvel] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-02-25T01:24:45.507-06:00  INFO 12348 --- [marvel] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-25T01:24:45.508-06:00  INFO 12348 --- [marvel] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-25T01:24:45.794-06:00  INFO 12348 --- [marvel] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-25T01:24:45.796-06:00  INFO 12348 --- [marvel] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3289 ms
+2025-02-25T01:24:48.182-06:00  INFO 12348 --- [marvel] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-02-25T01:24:48.202-06:00  INFO 12348 --- [marvel] [main] com.marvel.api.MarvelApplication         : Started MarvelApplication in 7.074 seconds (process running for 8.21)
+2025-02-25T01:25:31.276-06:00  INFO 12348 --- [marvel] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-25T01:25:31.402-06:00  INFO 12348 --- [marvel] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-02-25T01:25:39.542-06:00  INFO 5484 --- [marvel] [main] com.marvel.api.MarvelApplication         : Starting MarvelApplication using Java 17.0.14 with PID 5484 (C:\Users\user\.git\Proyecto\marvel\target\classes started by user in C:\Users\user\.git\Proyecto)
+2025-02-25T01:25:39.547-06:00  INFO 5484 --- [marvel] [main] com.marvel.api.MarvelApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-02-25T01:25:43.148-06:00  INFO 5484 --- [marvel] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-02-25T01:25:43.182-06:00  INFO 5484 --- [marvel] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-02-25T01:25:43.186-06:00  INFO 5484 --- [marvel] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-02-25T01:25:43.386-06:00  INFO 5484 --- [marvel] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-02-25T01:25:43.421-06:00  INFO 5484 --- [marvel] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3742 ms
+2025-02-25T01:25:45.226-06:00  INFO 5484 --- [marvel] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-02-25T01:25:45.270-06:00  INFO 5484 --- [marvel] [main] com.marvel.api.MarvelApplication         : Started MarvelApplication in 7.118 seconds (process running for 8.115)
+2025-02-25T01:26:31.479-06:00  INFO 5484 --- [marvel] [SpringApplicationShutdownHook] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-25T01:26:31.854-06:00  INFO 5484 --- [marvel] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
